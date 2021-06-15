@@ -1,0 +1,20 @@
+{
+  "name": "banking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "paras bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9"
+  },
+  "devDependencies": {},
+  "description": "GRIP@ Sparks Foundation  web development and designing internship Task-1 Basic Banking website  The Sparks Foundation Tasks This repository contains the tasks that I completed while working as an intern for The Sparks Foundation."
+}
